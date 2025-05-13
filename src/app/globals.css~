@@ -2,9 +2,6 @@
 *{
   font-family: "Manrope", sans-serif;
 }
-.text-fill-transparent {
-  -webkit-text-fill-color: transparent;
-}
 :root {
   --background: #ffffff;
   --foreground: #171717;
